@@ -15,5 +15,6 @@ To adjust the current web app to include all four of the hemisphere images. In o
 
 ## Step 3:
 - Add Bootstrap 3 Components
+  - Updating my web app to make it mobile-responsive, and adding two additional Bootstrap 3 components to make it stand out.
 
 ![Mission_to_Mars2](https://user-images.githubusercontent.com/83566868/134453671-13e51b17-e932-4048-87a4-1bbd33864a8b.png)
